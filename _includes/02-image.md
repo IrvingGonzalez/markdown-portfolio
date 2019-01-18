@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Random Image](http://getwallpapers.com/wallpaper/full/3/5/7/170948.jpg)
